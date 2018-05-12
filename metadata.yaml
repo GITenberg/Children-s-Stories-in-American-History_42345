@@ -1,0 +1,27 @@
+_repo: Children-s-Stories-in-American-History_42345
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wright, Henrietta Christian
+    deathdate: 1899
+    gutenberg_agent_id: '35708'
+    url: http://www.gutenberg.org/2009/agents/35708
+description: ''
+gutenberg_issued: '2013-03-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42345'
+  lccn: 02005799
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E151'
+- !lcsh 'America -- Discovery and exploration -- Juvenile literature'
+- !lcsh 'United States -- History -- Juvenile literature'
+title: Children's Stories in American History
+url: http://www.gutenberg.org/ebooks/42345
